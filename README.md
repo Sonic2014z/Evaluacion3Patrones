@@ -1,6 +1,6 @@
 # Sistema de Catálogo de Videojuegos
 
-Nombre: Gonzalo Christian Andre Maturana Cruces
+Nombre: Gonzalo Christian Andre Maturana Cruces |
 Sección: 1 (14:56 - 16:25) | Asignatura: Patrones de Diseño
 
 ## Descripción general del sistema
