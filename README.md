@@ -23,7 +23,7 @@ En tiendas de videojuegos o sistemas de gestión de inventario, se requiere de u
 - Centralizado y consistente.
 - Flexible para clonar productos base y crear nuevas versiones.
 - Fácil de mostrar en múltiples formatos para exportación o visualización.
-- Capaz de recorrer sus elementos sin exponer a detalles internos de su estructura.
+- Capaz de recorrer sus elementos sin exponer detalles internos de su estructura.
 
 Este sistema busca resolver esas necesidades mediante patrones de diseño vistos en clase.
 
@@ -32,7 +32,7 @@ Este sistema busca resolver esas necesidades mediante patrones de diseño vistos
 ## Patrones aplicados y justificación
 
 ### 1. **Singleton** - `GestorCatalogo`
-- **Propósito**: Garantia una única instancia del catálogo de videojuegos.
+- **Propósito**: Garantiza una única instancia del catálogo de videojuegos.
 - **Justificación**: Permite centralizar los datos para evitar inconsistencias. Toda acción hecha sobre el catálogo usa la misma instancia.
 
 ### 2. **Prototype** - `Videojuego.clonar()`
