@@ -82,7 +82,7 @@ java -cp build/classes app.main
 ```bash
 ===== MENÚ PRINCIPAL =====
 1. Agregar videojuego nuevo
-2. Clonar videojuego existente (Prototype)
+2. Agregar edición especial de juego existente (Prototype)
 3. Mostrar catálogo (Texto)
 4. Mostrar catálogo (JSON)
 5. Recorrer catálogo (Iterator)
